@@ -38,8 +38,8 @@
 }
 
 .user-message {
-  background-color: #007bff; 
-  color: white;
+  background-color: #b2e6e6; 
+  color: rgb(0, 0, 0);
   align-self: flex-end; 
 }
 
@@ -76,4 +76,13 @@
 
 .send-button:hover {
   background-color: #0056b3;
+}
+
+
+
+.timestamp {
+  display: block; 
+  font-size: 0.8em; 
+  color: gray; 
+  margin-top: 5px; 
 }
